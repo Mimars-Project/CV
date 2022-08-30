@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1661823099 "d:/Documents/Coding/Awesome-CV-master/cv.tex" "d:/Documents/Coding/Awesome-CV-master/cv.pdf" "cv" 1661823118
+["pdflatex"] 1661823734 "d:/Documents/Coding/Awesome-CV-master/cv.tex" "d:/Documents/Coding/Awesome-CV-master/cv.pdf" "cv" 1661823754
   "awesome-cv.cls" 1619095612 26721 be359838bfc0b039a0f318f4ec0051c7 ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1612151778 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1612151317 1288 655e228510b4c2a1abe905c368440826 ""
@@ -34,9 +34,9 @@
   "c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1612154743 2568060 ac7cca526ed64f00ab972c25497702e2 ""
   "c:/texlive/2020/texmf.cnf" 1612154075 713 e69b156964470283e0530f5060668171 ""
   "cv.tex" 1648757573 3686 a9a2aef32f9f7f166b2ea1ed3215e595 ""
-  "d:/Documents/Coding/Awesome-CV-master/cv.aux" 1661823099 9 a94a2480d3289e625eea47cd1b285758 ""
+  "d:/Documents/Coding/Awesome-CV-master/cv.aux" 1661823734 9 a94a2480d3289e625eea47cd1b285758 ""
   "d:/Documents/Coding/Awesome-CV-master/cv.tex" 1648757573 3686 a9a2aef32f9f7f166b2ea1ed3215e595 ""
   (generated)
   "d:/Documents/Coding/Awesome-CV-master/cv.pdf"
-  "cv.log"
   "d:/Documents/Coding/Awesome-CV-master/cv.log"
+  "cv.log"
