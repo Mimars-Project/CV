@@ -1,4 +1,4 @@
-# Open cv.pdf to view my CV
+# Open VincentCV.pdf to view my CV
 
 <h1 align="center">
   <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
