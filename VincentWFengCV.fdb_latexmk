@@ -1,11 +1,11 @@
 # Fdb version 3
-["xdvipdfmx"] 1674621620 "VincentWFengCV.xdv" "VincentWFengCV.pdf" "VincentWFengCV" 1674644727
-  "VincentWFengCV.xdv" 1674621620 46980 96849015beec893a92aa7e96233aef88 "xelatex"
+["xdvipdfmx"] 1674775983 "VincentWFengCV.xdv" "VincentWFengCV.pdf" "VincentWFengCV" 1674775985
+  "VincentWFengCV.xdv" 1674775983 46980 4c2fc676ff2ba34b0b4122a0030f3ff9 "xelatex"
   (generated)
   "VincentWFengCV.pdf"
-["xelatex"] 1674621616 "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" "VincentWFengCV.xdv" "VincentWFengCV" 1674644727
-  "VincentWFengCV.aux" 1674621620 652 0482c830dbea8b837b863164a9d12cd3 "xelatex"
-  "VincentWFengCV.out" 1674621619 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+["xelatex"] 1674775976 "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" "VincentWFengCV.xdv" "VincentWFengCV" 1674775985
+  "VincentWFengCV.aux" 1674775983 652 0482c830dbea8b837b863164a9d12cd3 "xelatex"
+  "VincentWFengCV.out" 1674775983 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   "VincentWFengCV.tex" 1674620036 3676 557b0ec267b04b72d2c6558b57334829 ""
   "awesome-cv.cls" 1661930376 26721 305a1768ca9d2f10c442cd2bdbae4b4f ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1612155378 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -169,7 +169,7 @@
   "c:/texlive/2020/texmf.cnf" 1612157675 713 e69b156964470283e0530f5060668171 ""
   "cv/education.tex" 1674620685 2090 4bb2db2e0c1cbc1a2e82f9b0fd868bf8 ""
   "cv/experience.tex" 1674644725 1832 e155303d0766622f23629abba0eac3cf ""
-  "cv/extracurricular.tex" 1661929875 1835 6bc4fe780a4b04950c9ed0825030683d ""
+  "cv/extracurricular.tex" 1674775974 1835 1858b1d0c7ea01b688044e518c3cc9c9 ""
   "cv/honors.tex" 1661826493 1261 ca2519c8f5085b117672983b838ac23a ""
   "cv/objective.tex" 1674612606 944 7a6289b43dfa71a3d57d04ca8ef29691 ""
   "cv/references.tex" 1661929604 606 a2f47931701a05a012956f4c37d28a5b ""
@@ -178,6 +178,6 @@
   "fontawesome.sty" 1619099212 98046 7347fb084abf1308033c4d26f24f7a42 ""
   (generated)
   "VincentWFengCV.out"
-  "VincentWFengCV.xdv"
-  "VincentWFengCV.log"
   "VincentWFengCV.aux"
+  "VincentWFengCV.log"
+  "VincentWFengCV.xdv"
