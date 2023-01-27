@@ -1,12 +1,12 @@
 # Fdb version 3
-["xdvipdfmx"] 1674775983 "VincentWFengCV.xdv" "VincentWFengCV.pdf" "VincentWFengCV" 1674775985
-  "VincentWFengCV.xdv" 1674775983 46980 4c2fc676ff2ba34b0b4122a0030f3ff9 "xelatex"
+["xdvipdfmx"] 1674778608 "VincentWFengCV.xdv" "VincentWFengCV.pdf" "VincentWFengCV" 1674778610
+  "VincentWFengCV.xdv" 1674778608 56988 9a3f4f0d91b61734a3811e2dd990ca27 "xelatex"
   (generated)
   "VincentWFengCV.pdf"
-["xelatex"] 1674775976 "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" "VincentWFengCV.xdv" "VincentWFengCV" 1674775985
-  "VincentWFengCV.aux" 1674775983 652 0482c830dbea8b837b863164a9d12cd3 "xelatex"
-  "VincentWFengCV.out" 1674775983 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "VincentWFengCV.tex" 1674620036 3676 557b0ec267b04b72d2c6558b57334829 ""
+["xelatex"] 1674778604 "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" "VincentWFengCV.xdv" "VincentWFengCV" 1674778610
+  "VincentWFengCV.aux" 1674778608 652 0482c830dbea8b837b863164a9d12cd3 "xelatex"
+  "VincentWFengCV.out" 1674778607 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "VincentWFengCV.tex" 1674778300 3700 53fa2654720ae5d762e9efb866cef095 ""
   "awesome-cv.cls" 1661930376 26721 305a1768ca9d2f10c442cd2bdbae4b4f ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1612155378 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1612157661 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -167,17 +167,18 @@
   "c:/texlive/2020/texmf-dist/web2c/texmf.cnf" 1612155817 39451 15a3ebee027466ecb89701aa91dfebaf ""
   "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1612158336 4941822 57ec389be0af744a85f16fcdf8a43f35 ""
   "c:/texlive/2020/texmf.cnf" 1612157675 713 e69b156964470283e0530f5060668171 ""
-  "cv/education.tex" 1674620685 2090 4bb2db2e0c1cbc1a2e82f9b0fd868bf8 ""
-  "cv/experience.tex" 1674644725 1832 e155303d0766622f23629abba0eac3cf ""
+  "cv/education.tex" 1674778603 2080 92803a6e2641cce17a43810813f74fc8 ""
+  "cv/experience.tex" 1674778549 1845 1d1f21266a773548c5ee3d929a8db45e ""
   "cv/extracurricular.tex" 1674775974 1835 1858b1d0c7ea01b688044e518c3cc9c9 ""
   "cv/honors.tex" 1661826493 1261 ca2519c8f5085b117672983b838ac23a ""
   "cv/objective.tex" 1674612606 944 7a6289b43dfa71a3d57d04ca8ef29691 ""
+  "cv/projects.tex" 1674778383 1782 fcf038373203746a12be4d3765deba4f ""
   "cv/references.tex" 1661929604 606 a2f47931701a05a012956f4c37d28a5b ""
-  "cv/skills.tex" 1674620089 1213 3d30ad5328a5d825a46ee2e93416780f ""
-  "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" 1674620036 3676 557b0ec267b04b72d2c6558b57334829 ""
+  "cv/skills.tex" 1674778021 1391 72895ce9c671486542075ae6821325c3 ""
+  "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" 1674778300 3700 53fa2654720ae5d762e9efb866cef095 ""
   "fontawesome.sty" 1619099212 98046 7347fb084abf1308033c4d26f24f7a42 ""
   (generated)
   "VincentWFengCV.out"
+  "VincentWFengCV.xdv"
   "VincentWFengCV.aux"
   "VincentWFengCV.log"
-  "VincentWFengCV.xdv"
