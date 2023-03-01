@@ -1,18 +1,19 @@
 # Fdb version 3
-["xdvipdfmx"] 1674778704 "VincentWFengCV.xdv" "VincentWFengCV.pdf" "VincentWFengCV" 1674778706
-  "VincentWFengCV.xdv" 1674778703 56768 685d91518da762d2b553254a88e6b725 "xelatex"
+["xdvipdfmx"] 1677712479 "VincentWFengCV.xdv" "VincentWFengCV.pdf" "VincentWFengCV" 1677712481
+  "VincentWFengCV.xdv" 1677712479 58672 6d5ae04119d6c74ac8cdbaf5d26f9edb "xelatex"
   (generated)
   "VincentWFengCV.pdf"
-["xelatex"] 1674778700 "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" "VincentWFengCV.xdv" "VincentWFengCV" 1674778706
-  "VincentWFengCV.aux" 1674778703 652 0482c830dbea8b837b863164a9d12cd3 "xelatex"
-  "VincentWFengCV.out" 1674778703 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "VincentWFengCV.tex" 1674778300 3700 53fa2654720ae5d762e9efb866cef095 ""
+["xelatex"] 1677712474 "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" "VincentWFengCV.xdv" "VincentWFengCV" 1677712481
+  "VincentWFengCV.aux" 1677712479 652 0482c830dbea8b837b863164a9d12cd3 "xelatex"
+  "VincentWFengCV.out" 1677712478 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "VincentWFengCV.tex" 1677712459 3722 f95ca4df39b8277abd49c6eaead34816 ""
   "awesome-cv.cls" 1661930376 26721 305a1768ca9d2f10c442cd2bdbae4b4f ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1612155378 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1612157661 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1612154917 1524 4414a8315f39513458b80dfc63bff03a ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1612154917 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1612154917 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1612154917 1524 d89e2d087a9828407a196f428428ef4a ""
   "c:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1612154671 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "c:/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1612154790 40635 c40361e206be584d448876bba8a64a3b ""
   "c:/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty" 1612154793 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -173,12 +174,12 @@
   "cv/honors.tex" 1661826493 1261 ca2519c8f5085b117672983b838ac23a ""
   "cv/objective.tex" 1674612606 944 7a6289b43dfa71a3d57d04ca8ef29691 ""
   "cv/projects.tex" 1674778383 1782 fcf038373203746a12be4d3765deba4f ""
-  "cv/references.tex" 1661929604 606 a2f47931701a05a012956f4c37d28a5b ""
+  "cv/references.tex" 1677712473 717 dcdc0ec1c871dfe83ff578950233a76a ""
   "cv/skills.tex" 1674778021 1391 72895ce9c671486542075ae6821325c3 ""
-  "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" 1674778300 3700 53fa2654720ae5d762e9efb866cef095 ""
+  "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" 1677712459 3722 f95ca4df39b8277abd49c6eaead34816 ""
   "fontawesome.sty" 1619099212 98046 7347fb084abf1308033c4d26f24f7a42 ""
   (generated)
-  "VincentWFengCV.xdv"
-  "VincentWFengCV.out"
-  "VincentWFengCV.log"
   "VincentWFengCV.aux"
+  "VincentWFengCV.out"
+  "VincentWFengCV.xdv"
+  "VincentWFengCV.log"
