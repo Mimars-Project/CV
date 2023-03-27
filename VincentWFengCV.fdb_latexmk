@@ -1,11 +1,11 @@
 # Fdb version 3
-["xdvipdfmx"] 1679891288 "VincentWFengCV.xdv" "VincentWFengCV.pdf" "VincentWFengCV" 1679891290
-  "VincentWFengCV.xdv" 1679891288 58028 1565d5ce9c0806cda3a987e28b94b0c8 "xelatex"
+["xdvipdfmx"] 1679894706 "VincentWFengCV.xdv" "VincentWFengCV.pdf" "VincentWFengCV" 1679894707
+  "VincentWFengCV.xdv" 1679894705 58028 615ae30f289db50e49d36e1bb7831402 "xelatex"
   (generated)
   "VincentWFengCV.pdf"
-["xelatex"] 1679891284 "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" "VincentWFengCV.xdv" "VincentWFengCV" 1679891290
-  "VincentWFengCV.aux" 1679891288 652 0482c830dbea8b837b863164a9d12cd3 "xelatex"
-  "VincentWFengCV.out" 1679891287 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+["xelatex"] 1679894701 "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" "VincentWFengCV.xdv" "VincentWFengCV" 1679894707
+  "VincentWFengCV.aux" 1679894705 652 0482c830dbea8b837b863164a9d12cd3 "xelatex"
+  "VincentWFengCV.out" 1679894705 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   "VincentWFengCV.tex" 1677712459 3722 f95ca4df39b8277abd49c6eaead34816 ""
   "awesome-cv.cls" 1661930376 26721 305a1768ca9d2f10c442cd2bdbae4b4f ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1612155378 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -169,7 +169,7 @@
   "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1612158336 4941822 57ec389be0af744a85f16fcdf8a43f35 ""
   "c:/texlive/2020/texmf.cnf" 1612157675 713 e69b156964470283e0530f5060668171 ""
   "cv/education.tex" 1679891283 2079 35e81a2ee352c137f62cb74225257399 ""
-  "cv/experience.tex" 1679890915 1845 1d1f21266a773548c5ee3d929a8db45e ""
+  "cv/experience.tex" 1679894700 1845 19cefed350a6f79123a341d6023f926a ""
   "cv/extracurricular.tex" 1679890857 1788 34368783972e64953aa4e25eb448561e ""
   "cv/honors.tex" 1661826493 1261 ca2519c8f5085b117672983b838ac23a ""
   "cv/objective.tex" 1674612606 944 7a6289b43dfa71a3d57d04ca8ef29691 ""
@@ -179,7 +179,7 @@
   "d:/Coding/Awesome-CV-master/VincentWFengCV.tex" 1677712459 3722 f95ca4df39b8277abd49c6eaead34816 ""
   "fontawesome.sty" 1619099212 98046 7347fb084abf1308033c4d26f24f7a42 ""
   (generated)
+  "VincentWFengCV.log"
+  "VincentWFengCV.aux"
   "VincentWFengCV.out"
   "VincentWFengCV.xdv"
-  "VincentWFengCV.aux"
-  "VincentWFengCV.log"
